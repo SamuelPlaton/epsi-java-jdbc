@@ -1,0 +1,8 @@
+fr\epsi\jdbc\TestUpdate.class
+fr\epsi\jdbc\TestDelete.class
+fr\epsi\jdbc\entities\Fournisseur.class
+fr\epsi\jdbc\TestSelect.class
+fr\epsi\jdbc\TestConnexionJDBC.class
+App.class
+fr\epsi\jdbc\TestInsertion.class
+fr\epsi\jdbc\PersistenceManager.class
